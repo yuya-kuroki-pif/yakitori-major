@@ -1,0 +1,17 @@
+{
+  "google": {
+    "place_id": "",
+    "query": "焼鶏 メジャー 東京都墨田区江東橋2-7-6",
+    "rating": null,
+    "count": null,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E9%B6%8F%20%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E6%B1%9F%E6%9D%B1%E6%A9%8B2-7-6",
+    "updated": null
+  },
+  "tabelog": {
+    "score": 3.53,
+    "count": 266,
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13299571/",
+    "asof": "2026-11-14",
+    "note": "食べログの点数・口コミ件数は手入力。店舗ページを見て月1回程度 score / count / asof を更新する"
+  }
+}
