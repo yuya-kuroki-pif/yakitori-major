@@ -1,11 +1,13 @@
 {
   "google": {
-    "place_id": "",
+    "place_id": "ChIJ_7BACwCJGGARts3op84EWr4",
     "query": "焼鶏 メジャー 東京都墨田区江東橋2-7-6",
-    "rating": null,
-    "count": null,
-    "url": "https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E9%B6%8F%20%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E6%B1%9F%E6%9D%B1%E6%A9%8B2-7-6",
-    "updated": null
+    "rating": 4.7,
+    "count": 132,
+    "url": "https://maps.google.com/?cid=13716280900737093046&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "updated": "2026-11-17",
+    "matched_name": "焼鶏メジャー",
+    "matched_address": "〒130-0022 東京都墨田区江東橋２丁目７−６ Uビル 1階"
   },
   "tabelog": {
     "score": 3.53,
